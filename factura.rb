@@ -23,7 +23,7 @@ end
 
 
 
-puts cant       #prints test1
+puts cant   
 puts precioUnidad
 puts estado
 puts "--------"
