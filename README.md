@@ -22,6 +22,7 @@ Ejercicios curso Klee
 - implementar cálculo con descuento $10000
 - implementar cálculo con descuento $50000
 - imprimir el detalle del cálculo por pantalla
+- agregar manejo de errores de argumentos
 
 # MVP 
 - Programa que tome 2 parámetros por línea de comandos, cantidad y precio unitario, e imprima la facturación con el impuesto CA
