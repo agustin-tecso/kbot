@@ -3,6 +3,11 @@ cant = ARGV[0].to_f
 precioUnidad = ARGV[1].to_f
 estado = ARGV[2]
 
+if estado!= "CA" 
+    puts "Estado no implementado"
+    exit
+end
+
 IMPUESTO = {"CA"=>8.25}
 DESCUENTO = {"1000"=>3}
 
